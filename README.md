@@ -13,13 +13,13 @@ Feel free to explore, learn, and contribute!
 <!-- Desktop Notifier -->
 <div align="center">
     <h3><a href="link_to_desktop_notifier">Desktop Notifier</a></h3>
-    <img src="images/desktop_notifier.png" alt="Desktop Notifier" width="300"/>
+    <img src="images/desktopnotifier.png" alt="Desktop Notifier" width="300"/>
 </div>
 
 <!-- Digital Clock -->
 <div align="center">
     <h3><a href="link_to_digital_clock">Digital Clock</a></h3>
-    <img src="images/digital_clock.png" alt="Digital Clock" width="300"/>
+    <img src="images/digitalclock.png" alt="Digital Clock" width="300"/>
 </div>
 
 <!-- Email Validation -->
