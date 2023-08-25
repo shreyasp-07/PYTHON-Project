@@ -52,7 +52,7 @@ Feel free to explore, learn, and contribute!
     <h3><a href="link_to_email_validation">QR Code Generator</a></h3>
     <img src="images/qr.png" alt="QR" width="300"/>
 </div>
-<h4>Qr Code for Youtube</h4>
+<h4 align="center">Qr Code for Youtube</h4>
 
 <div align="center">
     <h3><a href="link_to_email_validation">Convert Python File to exe</a></h3>
