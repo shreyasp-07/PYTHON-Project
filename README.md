@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="images/banner.png" alt="Python Projects Banner" width="600"/>
+    <img src="images/banner.jpg" alt="Python Projects Banner" width="600"/>
 </div>
 
 # Python Projects Showcase 🐍
@@ -25,7 +25,8 @@ Feel free to explore, learn, and contribute!
 <!-- Email Validation -->
 <div align="center">
     <h3><a href="link_to_email_validation">Email Validation</a></h3>
-    <img src="images/email_validation.png" alt="Email Validation" width="300"/>
+    <img src="images/emailvalid1.png" alt="Email Validation" width="300"/>
+    <img src="images/emailvalid2.png" alt="Email Validation" width="300"/>
 </div>
 
 <!-- ... Repeat for other projects ... -->
