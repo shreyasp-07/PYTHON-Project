@@ -12,7 +12,7 @@ Feel free to explore, learn, and contribute!
 
 <!-- Desktop Notifier -->
 <div align="center">
-    <h3><a href="link_to_desktop_notifier">Desktop Notifier</a></h3>
+    <h3><a href="./Desktop Notifier/">Desktop Notifier</a></h3>
     <img src="images/desktopnotifier.png" alt="Desktop Notifier" width="300"/>
 </div>
 
@@ -109,6 +109,6 @@ If you find any of these projects interesting or helpful, consider contributing,
 
 ## Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/) or [Twitter](https://twitter.com/yourusername).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shreyas-pachpute-b5882a204/) or [Twitter](https://twitter.com/yourusername).
 
 Happy coding! 😄
